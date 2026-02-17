@@ -71,7 +71,7 @@ This will publish:
 
 ------------------------------------------------------------------------
 
-Step 3 — Configure Database
+## Step 3 — Configure Database
 
 Open .env and set your database:
 
